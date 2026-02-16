@@ -22,5 +22,37 @@
     "typeCheckHostBindings": true,
     "strictTemplates": true
   },
-  "files": []
+  "files": [],
+  "references": [
+    {
+      "path": "./projects/movie-ticket/tsconfig.app.json"
+    },
+    {
+      "path": "./projects/movie-ticket/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/movie-list/tsconfig.app.json"
+    },
+    {
+      "path": "./projects/movie-list/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/movie-admin/tsconfig.app.json"
+    },
+    {
+      "path": "./projects/movie-admin/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/movie-tickets/tsconfig.app.json"
+    },
+    {
+      "path": "./projects/movie-tickets/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/movie-ticket/tsconfig.app.json"
+    },
+    {
+      "path": "./projects/movie-ticket/tsconfig.spec.json"
+    }
+  ]
 }
